@@ -1,0 +1,9 @@
+Root-finding started...
+Please give 3 numbers: 
+Equation got 1 real root: -1
+Eval: 0
+Roots are: 1 and -0.5
+Eval: 0 & 0
+Equation is missing real roots.
+Roots are: 0.732051 and -2.73205
+Eval: -1.19209e-07 & 4.76837e-07

@@ -1,0 +1,4 @@
+Welcome to this quantum calculator.
+Please give the integers you want to add to sum: 
+(Press ctrl + x when done)
+Sum is: 55
